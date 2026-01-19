@@ -3,29 +3,6 @@
 This project predicts **Customer Lifetime Value (CLV)** using machine learning techniques.  
 It analyzes customer behavior, purchase frequency, and monetary value to estimate how valuable each customer will be to the business over time.
 
----
-
-## 📂 Project Structure
-customer-lifetime-value-prediction/
-│
-├── dataset/ # dataset used for training and testing
-├── visuals/ # generated charts and visualizations
-├── notebook/
-│ └── customer-lifetime-value-prediction.ipynb
-│
-├── src/ # reusable functions and scripts (optional)
-│ ├── data_preprocessing.py
-│ ├── model_training.py
-│ └── evaluation.py
-│
-├── requirements.txt # required dependencies
-├── .gitignore # ignore unnecessary files
-├── LICENSE # MIT license
-└── README.md # project documentation
-
-
----
-
 ## 🚀 Features
 - Data preprocessing and cleaning  
 - Feature engineering for customer segmentation  
